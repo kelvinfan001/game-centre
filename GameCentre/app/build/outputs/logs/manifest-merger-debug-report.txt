@@ -1,0 +1,210 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:design:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/811a01311cc0ca7132962c353237276c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d74738a099ddb3ca08d3bb81b5ee2fdd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/31cf6650b959df4925b96f1cf8dd7778/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f5e7a7d35c0c67053a9220b57f4fc857/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8c2ce9d9108af17b15e83f2bac3f1c29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ab19d53d1f52bc4a42c89e64c6febc73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/25c7e4b9f6755745ecda83113cd451f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/183cf98209171a017fe12c5cd1bc1194/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c0b91fecf22a054de9881a7f30714ec2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ef4385697cbaa7711e205c70a69b7f9d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/408750996ac3e07426e55f9b8c1660d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/475b89f693a44eb66ad4239cff621195/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0939d4ab29c31444c26bf68cf7ee0fff/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3acfdd3055db1becf4268cb8f5ba43fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/481f31bf5143770572f9decd76e0c261/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/17dbf52222dc126d7ca2a84e2c522580/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/59e148ab457b7bf80a0b34d4375573f3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:9:22-64
+application
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:11:5-48:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/31cf6650b959df4925b96f1cf8dd7778/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/31cf6650b959df4925b96f1cf8dd7778/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:17:9-65
+activity#generalactivities.LoginActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:18:19-65
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:22:27-74
+activity#fall2018.csc2017.slidingtiles.StartingActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:25:9-54
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:25:19-51
+activity#fall2018.csc2017.slidingtiles.GameActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:26:19-47
+activity#generalactivities.GameSelectionActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:27:9-76
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:27:19-73
+activity#generalactivities.MenuActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:28:9-31:72
+	android:label
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:30:13-56
+	android:theme
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:29:13-58
+activity#fall2018.csc2017.slidingtiles.SlidingTilesScoreBoardActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:32:9-35:72
+	android:label
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:34:13-77
+	android:theme
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:35:13-69
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:33:13-59
+activity#fall2018.csc2017.slidingtiles.SlidingTilesComplexityActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:36:9-68
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:36:19-65
+activity#fall2018.csc2017.slidingtiles.DownloadingActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:37:9-57
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:37:19-54
+activity#generalactivities.SettingActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:38:9-70
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:38:19-67
+activity#fall2018.csc2017.pong.PongGameActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:39:9-75
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:39:19-72
+activity#fall2018.csc2017.pong.PongStartingActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:40:9-79
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:40:19-76
+activity#fall2018.csc2017.coldwar.ColdWarMainActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:41:9-81
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:41:19-78
+activity#fall2018.csc2017.pong.PongScoreBoardActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:42:9-81
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:42:19-78
+activity#fall2018.csc2017.coldwar.UserPiecesSelectionActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:43:9-89
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:43:19-86
+activity#fall2018.csc2017.coldwar.GuestPiecesSelectionActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:44:9-90
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:44:19-87
+activity#fall2018.csc2017.coldwar.ColdWarMenu
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:45:9-73
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:45:19-70
+activity#fall2018.csc2017.coldwar.ColdWarScoreBoardActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:46:9-87
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:46:19-84
+activity#fall2018.csc2017.coldwar.InstructionActivity
+ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:47:9-90
+	android:name
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml:47:19-78
+uses-sdk
+INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/811a01311cc0ca7132962c353237276c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/811a01311cc0ca7132962c353237276c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d74738a099ddb3ca08d3bb81b5ee2fdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d74738a099ddb3ca08d3bb81b5ee2fdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/31cf6650b959df4925b96f1cf8dd7778/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/31cf6650b959df4925b96f1cf8dd7778/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f5e7a7d35c0c67053a9220b57f4fc857/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/f5e7a7d35c0c67053a9220b57f4fc857/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8c2ce9d9108af17b15e83f2bac3f1c29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8c2ce9d9108af17b15e83f2bac3f1c29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ab19d53d1f52bc4a42c89e64c6febc73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ab19d53d1f52bc4a42c89e64c6febc73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/25c7e4b9f6755745ecda83113cd451f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/25c7e4b9f6755745ecda83113cd451f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/183cf98209171a017fe12c5cd1bc1194/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/183cf98209171a017fe12c5cd1bc1194/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c0b91fecf22a054de9881a7f30714ec2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/c0b91fecf22a054de9881a7f30714ec2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ef4385697cbaa7711e205c70a69b7f9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ef4385697cbaa7711e205c70a69b7f9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/408750996ac3e07426e55f9b8c1660d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/408750996ac3e07426e55f9b8c1660d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/475b89f693a44eb66ad4239cff621195/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/475b89f693a44eb66ad4239cff621195/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0939d4ab29c31444c26bf68cf7ee0fff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0939d4ab29c31444c26bf68cf7ee0fff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3acfdd3055db1becf4268cb8f5ba43fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3acfdd3055db1becf4268cb8f5ba43fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/481f31bf5143770572f9decd76e0c261/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/481f31bf5143770572f9decd76e0c261/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/17dbf52222dc126d7ca2a84e2c522580/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/17dbf52222dc126d7ca2a84e2c522580/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/59e148ab457b7bf80a0b34d4375573f3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kelvinfan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/59e148ab457b7bf80a0b34d4375573f3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/src/main/AndroidManifest.xml

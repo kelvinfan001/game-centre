@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/k"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SlidingTilesScoreBoardActivity">
+
+    <TextView
+        android:id="@+id/userHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="109dp"
+        android:layout_marginTop="92dp"
+        android:text="User" />
+
+    <TextView
+        android:id="@+id/scoreHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/userHeader"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="110dp"
+        android:text="Score" />
+
+    <TextView
+        android:id="@+id/user0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/userHeader"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="93dp"
+        android:layout_marginTop="30dp"
+        android:text="None" />
+
+    <TextView
+        android:id="@+id/user1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/user0"
+        android:layout_alignStart="@+id/user0"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="30dp"
+        android:text="None" />
+
+    <TextView
+        android:id="@+id/user2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/user1"
+        android:layout_alignStart="@+id/user0"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="30dp"
+        android:text="None" />
+
+    <TextView
+        android:id="@+id/user3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/user2"
+        android:layout_alignStart="@+id/user0"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="30dp"
+        android:text="None" />
+
+    <TextView
+        android:id="@+id/user4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/user3"
+        android:layout_alignStart="@+id/user0"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="30dp"
+        android:text="None" />
+
+    <TextView
+        android:id="@+id/user5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/user4"
+        android:layout_alignStart="@+id/user0"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="30dp"
+        android:text="None" />
+
+    <TextView
+        android:id="@+id/user6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/user5"
+        android:layout_alignStart="@+id/user0"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="30dp"
+        android:text="None" />
+
+    <TextView
+        android:id="@+id/user7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/user6"
+        android:layout_alignStart="@+id/user0"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="30dp"
+        android:text="None" />
+
+    <TextView
+        android:id="@+id/user8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/user7"
+        android:layout_alignStart="@+id/user0"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="30dp"
+        android:text="None" />
+
+    <TextView
+        android:id="@+id/score0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/userHeader"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="29dp"
+        android:layout_marginEnd="124dp"
+        android:text="0" />
+
+    <TextView
+        android:id="@+id/score1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/score0"
+        android:layout_alignTop="@+id/user1"
+        android:layout_marginTop="-1dp"
+        android:text="0" />
+
+    <TextView
+        android:id="@+id/score2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/score0"
+        android:layout_alignTop="@+id/user2"
+        android:text="0" />
+
+    <TextView
+        android:id="@+id/score3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/score0"
+        android:layout_alignTop="@+id/user3"
+        android:text="0" />
+
+    <TextView
+        android:id="@+id/score4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/score0"
+        android:layout_alignTop="@+id/user4"
+        android:text="0" />
+
+    <TextView
+        android:id="@+id/score5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/score0"
+        android:layout_alignTop="@+id/user5"
+        android:text="0" />
+
+    <TextView
+        android:id="@+id/score6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/score0"
+        android:layout_alignTop="@+id/user6"
+        android:text="0" />
+
+    <TextView
+        android:id="@+id/score7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/score0"
+        android:layout_alignTop="@+id/user7"
+        android:text="0" />
+
+    <TextView
+        android:id="@+id/score8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/score0"
+        android:layout_alignTop="@+id/user8"
+        android:text="0" />
+
+</RelativeLayout>

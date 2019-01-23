@@ -1,0 +1,4 @@
+#Thu Dec 20 22:38:18 PST 2018
+base.0=/Users/kelvinfan/Documents/CSC207/group_0601/Phase2/GameCentre/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
