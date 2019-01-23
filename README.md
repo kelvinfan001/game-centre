@@ -1,7 +1,8 @@
 
 # Game Centre
 
-A Game Centre that contains several simple games.
+A Game Centre that contains three games.
+**Note: This is a school project that received full marks. The game COLD WAR was created entirely from scratch by Kelvin Yao Fan and Kailong Huang.**
 
 ## Getting Started
 
@@ -213,8 +214,3 @@ In order to test these codes properly, please use the drawable file from our sub
 ## License
 
 This project is licensed under the MIT License.
-
-## Acknowledgments
-
-* Special thanks to Suguru Seo for briefly being in our Phase 1 group for about 24 hours.
-** Special special thanks to Stephen Utama for coming to the rescue for Phase 2.
