@@ -3,7 +3,7 @@
 
 A Game Centre that contains three games.
 
-**Note: This is a school project that received full marks. The game COLD WAR was created entirely from scratch by Kelvin Yao Fan and Kailong Huang.**
+COLD WAR was created entirely from scratch by Kelvin Yao Fan and Kailong Huang.**
 
 ## Getting Started
 
