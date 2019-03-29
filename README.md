@@ -3,7 +3,7 @@
 
 A Game Centre that contains three games.
 
-COLD WAR was created entirely from scratch by Kelvin Yao Fan and Kailong Huang.**
+**COLD WAR was created entirely from scratch by Kelvin Yao Fan and Kailong Huang.**
 
 ## Getting Started
 
