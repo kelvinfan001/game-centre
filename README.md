@@ -1,7 +1,7 @@
 
-# Game Centre
+# GameHub
 
-A Game Centre that contains three games.
+A game hub that contains three games.
 
 **COLD WAR was created entirely from scratch by Kelvin Yao Fan and Kailong Huang.**
 
