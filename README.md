@@ -22,10 +22,10 @@ Android 8.1 API 27
 
 These instructions should help you get a development env running on Android Studio.
 
-Clone from the Game Centre repository;
+Clone from the GameHub repository;
 
 ```
-https://markus.teach.cs.toronto.edu/git/csc207-2018-09-reg/group_0601
+https://github.com/kelvinfan001/gamehub.git
 ```
 
 Enter the correct directory;
